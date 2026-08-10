@@ -1,1 +1,1 @@
-Acessar Treino: https://robsoncdesouza.github.io/trino-andre/
+Acessar Treino: https://robsoncdesouza.github.io/treino-andre/
